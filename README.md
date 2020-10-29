@@ -12,6 +12,11 @@ webpack
 webpack-cli  
 webpack-merge
 
-### Add the following dependency
+### Add the following plugins
+optimize-css-assets-webpack-plugin
+clean-webpack-plugin
+
+
+### Add the following as a dependency
 
 clean-webpack-plugin
