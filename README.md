@@ -1,6 +1,6 @@
 Make sure you download all the items shown in the package.json file
 
-##Add the following dev dependencies:  
+### Add the following dev dependencies:  
 css-loader  
 file-loader  
 html-loader  
@@ -12,6 +12,6 @@ webpack
 webpack-cli  
 webpack-merge
 
-##Add the following dependency
+### Add the following dependency
 
 clean-webpack-plugin
